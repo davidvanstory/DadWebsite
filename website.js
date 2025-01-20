@@ -18,7 +18,7 @@ document.body.innerHTML = `
                 has helped numerous government departments optimize their operations and achieve their goals.</p>
                 <p>Please reach out for a consultation.</p>
             </div>
-            <button class="contact-btn" onclick="contactMe()">Contact: vanstorydc@gmail.com</button>
+            <button class="contact-btn" onclick="contactMe()">Contact: dvs500@hotmail.com</button>
         </div>
     </main>
 </div>
@@ -143,5 +143,5 @@ document.body.innerHTML = `
 
 // JavaScript for contact button
 function contactMe() {
-    window.location.href = "mailto:vanstorydc@gmail.com";
+    window.location.href = "mailto:dvs500@hotmail.com";
 }
